@@ -95,9 +95,9 @@ googleplus_hidden: false
 # Google Analytics
 google_analytics_tracking_id:
 
-#Facebook
-facebook_user: sleepcry
-facebook_follow_button: true
 
 # Facebook Like
-facebook_like: false
+facebook_user: sleepcry
+facebook_like: true
+facebook_follow_button: true
+
