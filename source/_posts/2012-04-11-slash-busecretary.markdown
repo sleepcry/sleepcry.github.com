@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "project/busecretary"
+title: "Busecretary"
 date: 2012-04-11 23:10
 comments: true
+sharing: true
+footer: true
 categories: 
 ---
-#Busecretary
 
 ##Philosophy
 
@@ -17,6 +18,7 @@ I don't have that time to remember what I planed to do next. I need a notificati
 
 I'am trying to manage my TODO business simply and clearly.So I need a secretary,a smart business secretary, that's why I call it Busecretary.
 
+<!-- more -->
 ##Why
 
 Insofar as we know,there are already so many calendar apps,why don't I use them.Simply saying,they are too comlex or too pool.
