@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "philosophy_of_one"
+title: "philosophy of one"
 date: 2012-04-13 16:45
 comments: true
 sharing: true
