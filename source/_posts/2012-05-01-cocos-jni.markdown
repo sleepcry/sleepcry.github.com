@@ -1,0 +1,17 @@
+---
+layout: post
+title: "some resource aboutc ocos2dx and jni"
+date: 2012-05-01 18:03
+comments: true
+sharing: true
+categories: 
+---
+[NDK](https://developer.android.com/sdk/ndk/overview.html#samples)
+
+[test case of android ndk](http://www.cocos2d-x.org/projects/cocos2d-x/wiki/How_to_run_test_cases_on_android-ndk)
+
+[improved android ndk](http://www.crystax.net/zh/android/ndk/7)
+
+[hybrid iphone and android with cocos2dx](http://gameit.ro/2011/08/creating-an-iphone-and-android-cocos2d-x-hybrid-project/)
+
+<xn:share-button type="button_count_right" label="分享到人人"></xn:share-button>
