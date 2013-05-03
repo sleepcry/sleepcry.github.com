@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[sleepcry Blog]]></title>
+  <link href="http://sleepcry.github.com/atom.xml" rel="self"/>
+  <link href="http://sleepcry.github.com/"/>
+  <updated>2013-05-04T02:06:14+08:00</updated>
+  <id>http://sleepcry.github.com/</id>
+  <author>
+    <name><![CDATA[sleepcry]]></name>
+    <email><![CDATA[sleepcry321@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[some resource aboutc ocos2dx and jni]]></title>
+    <link href="http://sleepcry.github.com/blog/2012/05/01/cocos-jni/"/>
+    <updated>2012-05-01T18:03:00+08:00</updated>
+    <id>http://sleepcry.github.com/blog/2012/05/01/cocos-jni</id>
+    <content type="html"><![CDATA[<p><a href="https://developer.android.com/sdk/ndk/overview.html#samples">NDK</a></p>
+
+<p><a href="http://www.cocos2d-x.org/projects/cocos2d-x/wiki/How_to_run_test_cases_on_android-ndk">test case of android ndk</a></p>
+
+<p><a href="http://www.crystax.net/zh/android/ndk/7">improved android ndk</a></p>
+
+<p><a href="http://gameit.ro/2011/08/creating-an-iphone-and-android-cocos2d-x-hybrid-project/">hybrid iphone and android with cocos2dx</a></p>
+
+<p>&lt;xn:share-button type=&#8221;button_count_right&#8221; label=&#8221;分享到人人&#8221;>&lt;/xn:share-button></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Android Wheel Widget]]></title>
+    <link href="http://sleepcry.github.com/blog/2012/04/26/android-wheel-widget/"/>
+    <updated>2012-04-26T03:27:00+08:00</updated>
+    <id>http://sleepcry.github.com/blog/2012/04/26/android-wheel-widget</id>
+    <content type="html"><![CDATA[<p>A awesome widget to suggest: <strong>WheelView</strong></p>
+
+<p>open source code available in:<a href="http://code.google.com/p/android-wheel/">here</a></p>
+
+<p>How does it looks like? <br/>
+<img src="http://2.bp.blogspot.com/_6ZWsj8oW5ek/TUHLiQLNzmI/AAAAAAAADPo/0SKjryIlEJg/s1600/android-wheel-cities.png" alt="example1" /> <br/>
+<img src="http://4.bp.blogspot.com/_6ZWsj8oW5ek/TUHMCvNNxcI/AAAAAAAADPs/zdO_6BsXJKc/s1600/android-wheel-time.png" alt="example2" /> <br/>
+<img src="http://2.bp.blogspot.com/_6ZWsj8oW5ek/TUHMwrEYkAI/AAAAAAAADPw/9W9X-HocKts/s1600/android-wheel-slot-machine.png" alt="example3" /></p>
+
+<p>(All these picture above are from google code!)</p>
+
+<p>It is really very easy to use!
+Here is an example:</p>
+
+<p>Liquid error: undefined method `Py_IsInitialized&#8217; for RubyPython::Python:Module</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[game engine statistic]]></title>
+    <link href="http://sleepcry.github.com/blog/2012/04/25/game-engine-statistic/"/>
+    <updated>2012-04-25T01:30:00+08:00</updated>
+    <id>http://sleepcry.github.com/blog/2012/04/25/game-engine-statistic</id>
+    <content type="html"><![CDATA[<h1>Purpose of this article</h1>
+
+<ul>
+<li>list game engines easy to start up for me</li>
+<li>analyse to find the best one on mobile platforms</li>
+</ul>
+
+
+<h3>Corona</h3>
+
+<p>commercial software <br/>
+c++/lua <br/>
+advantage: graphically rich games? <br/>
+cross platform: android, iphone, ipad</p>
+
+<h3>JGame</h3>
+
+<p>open source <br/>
+Java/as <br/>
+2d <br/>
+android <br/>
+<a href="http://www.13thmonkey.org/~boris/jgame/">host</a> <br/>
+with manual and tutorial</p>
+
+<h3>Unigine</h3>
+
+<p>commercial <br/>
+3D <br/>
+multi-platform supported <br/>
+<a href="http://unigine.com/">host</a> <br/>
+comment: the effect seems good in their host website. and also, complex.</p>
+
+<h1>ShiVa</h1>
+
+<p>commercial <br/>
+3D <br/>
+windows, macos, ios, android <br/>
+openGL, GLES, DX <br/>
+<a href="http://stonetrip.com/">host</a></p>
+
+<h3>Moai</h3>
+
+<p>open source <br/>
+for mobile primarily <br/>
+2D <br/>
+lua(recommanded) or c++ <br/>
+comment: it also supply some other cloud service for games. using lua&#8230; need to estimate seriously. <br/>
+<a href="http://getmoai.com/">host</a></p>
+
+<h3>ORX</h3>
+
+<p>open source <br/>
+2D <br/>
+C <br/>
+multi-platform include Android <br/>
+<a href="http://orx-project.org/">host</a> <br/>
+comment: using C to develop Android game means JNI, wrap, encapsulation and etc. Is it a fit or other words worth to do.</p>
+
+<h3>Unity 3D</h3>
+
+<p>free version is very weak. commerial version need 400USD to support android, another 400USD to support ios and a pro version priced 1,500 USD. <br/>
+3D <br/>
+multi-platforms <br/>
+comment: not the thing I want</p>
+
+<h3>Rokon</h3>
+
+<p>open source(code available on github) <br/>
+2D <br/>
+java <br/>
+android <br/>
+I tried this one, looks not good enough to build great games. Personal opinion.</p>
+
+<h3>Andengine</h3>
+
+<p>open source(still being developed, code available on github) <br/>
+2D <br/>
+java <br/>
+android <br/>
+look forward to free impressive game engine for android.</p>
+
+<h1>plan</h1>
+
+<p>I&#8217;m going to try Moai, JGame, ORX in Android. Good luck for me!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[GPS on maps]]></title>
+    <link href="http://sleepcry.github.com/blog/2012/04/16/gpsonmaps/"/>
+    <updated>2012-04-16T02:06:00+08:00</updated>
+    <id>http://sleepcry.github.com/blog/2012/04/16/gpsonmaps</id>
+    <content type="html"><![CDATA[<p>Usually, maps accept location data which has a offset to the real longitude/latitude calculated by some algorithms, and the algorithms are different between google map, baidu map and ms map. That&#8217;s why we need a internet connectivity to fetch an accurate positioning.
+On Android, the process are encapsulated by LocationManager(google map) or BMapManager(baidu map), in web development, there is also corresponding API to invoke. Just in case of some different scenarios, here is a way to translate the data:</p>
+
+<!-- more -->
+
+
+<p>Liquid error: No such file or directory - python -c &#8220;import sys; print sys.executable&#8221;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nothing could be Unique]]></title>
+    <link href="http://sleepcry.github.com/blog/2012/04/16/unique/"/>
+    <updated>2012-04-16T01:31:00+08:00</updated>
+    <id>http://sleepcry.github.com/blog/2012/04/16/unique</id>
+    <content type="html"><![CDATA[<p>Will life stop if one isn&#8217;t unque? Who&#8217;d like to admit one&#8217;s self is just a normal part of the huge society monster? Unfortunately, that&#8217;s the truth. <br/>
+So is products. I can&#8217;t imagine there is a product which has exclusive features with all other product except monopoly. <br/>
+Therefore, there is nothing supprising to find that there is alreadly some similiar product  while bringing out something finally after so many hard work and expect.
+Dont&#8217;t even think to be unique, feel free to feel happy and satisfied because of usefulness to the publics.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meaningless Circle]]></title>
+    <link href="http://sleepcry.github.com/blog/2012/04/15/meaninglesscircle/"/>
+    <updated>2012-04-15T01:45:00+08:00</updated>
+    <id>http://sleepcry.github.com/blog/2012/04/15/meaninglesscircle</id>
+    <content type="html"><![CDATA[<p>不断寻找活着的意义，殊不知活着本身就是最大的意义。 <br/>
+用户体验改进亦是如此。 <br/>
+采用了A方案后发现B方案较好，采用了B方案后觉得C方案最棒，而当无数工时花费后终于实现了C方案，又觉得A方案其实比C要好点。 <br/>
+著《经济学概论》的马歇尔说‘经济的根源就在于有人愿意为商品花钱’，我认为软件产品也是一样，使其成为一个产品的根源在于有人
+愿意使用它，而决定其好坏的标准则是有多少人愿意使用它。而一款成功的产品，必然是在与用户的不断互动中产生的，而不是做出一个
+perfect的产品，再推给用户。与其面赤耳红地争论ABC，何不赶快让用户参与到这个改进过程中来呢？</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[philosophy of one]]></title>
+    <link href="http://sleepcry.github.com/blog/2012/04/13/philosophy-of-one/"/>
+    <updated>2012-04-13T16:45:00+08:00</updated>
+    <id>http://sleepcry.github.com/blog/2012/04/13/philosophy-of-one</id>
+    <content type="html"><![CDATA[<h1>一以贯之</h1>
+
+<p>儒家文化讲求中庸之道，中者，不偏不倚，庸者，始终如一。在手机应用的界面设计中，自上而下风格的统一，一方面能减轻用户的学习成本，让其不用不断去揣测作者的意图；另一方面，也可以让应用看起来更为美观。</p>
+
+<p>如何能够让用户最快时间学会使用你的应用，如何让你的应用以最简单直接的方式为用户提供服务，是需要不断思索的一个课题。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Busecretary]]></title>
+    <link href="http://sleepcry.github.com/blog/2012/04/11/slash-busecretary/"/>
+    <updated>2012-04-11T23:10:00+08:00</updated>
+    <id>http://sleepcry.github.com/blog/2012/04/11/slash-busecretary</id>
+    <content type="html"><![CDATA[<h2>Philosophy</h2>
+
+<p>Time leads to space,space leads to substance,substance leads to soul.</p>
+
+<p>I don&#8217;t have that time to remember what I planed to do next. I need a notification,clearly and simply.</p>
+
+<h2>What</h2>
+
+<p>I&#8217;am trying to manage my TODO business simply and clearly.So I need a secretary,a smart business secretary, that&#8217;s why I call it Busecretary.</p>
+
+<!-- more -->
+
+
+<h2>Why</h2>
+
+<p>Insofar as we know,there are already so many calendar apps,why don&#8217;t I use them.Simply saying,they are too comlex or too pool.</p>
+
+<p>I always forget something, and I want to be notified when it is time to do something. However, the existent apps cannot satisfy my requirement fully. Alarm can simply notify me every day, and only a few alarms can be set. The calendar is complex to use and cannot set the event freely. So I want to combine the alarm and the calendar together. Collect both one&#8217;s advantage and discard their disadvantage.</p>
+
+<p>That&#8217;s why the Busecretary is conceived.</p>
+
+<h2>How</h2>
+
+<p>I need to be notified clearly and customizedly. So far as I can imagine,I&#8217;d like to set a notification as followings:</p>
+
+<ol>
+<li><p>select a time (day, hour, minute, second, etc.), choose a notify ring, describe the alarm, and you will be notified at that time.</p></li>
+<li><p>select a time (hour, minute, second, etc.), set notify me every day, describe the alarm, choose a ring, this is similar to traditional alarm.</p></li>
+<li><p>set a notification following step 1, and set another notification for each day following step 2, and then set some other notification following step 1 or step 2. That means, you can set as many notification as you want.</p></li>
+<li><p>Instead of choice a ring on you phone and a write a description, you can record some words. When time run expired, the words will be repeated.</p></li>
+</ol>
+
+
+<p>This can help us with our daily time allocation and remind us some special events.</p>
+]]></content>
+  </entry>
+  
+</feed>
